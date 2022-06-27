@@ -292,6 +292,16 @@ Payment journal
 
 The **Payment journal** selected for your payment acquirer must be a *Bank* journal.
 
+.. _payment_acquirers/published_unpublished:
+
+Published/Unpublished Flag
+**************************
+
+This button on the top right corner of your acquirer lets you control visibility on the customer's
+side. *Unpublished* allows you to make an acquirer invisible on the portal without having to
+disable it. For instance, this feature can be used for migrating from one acquirer to another.
+
+
 .. _payment_acquirers/accounting:
 
 Accounting perspective
