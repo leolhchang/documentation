@@ -4,7 +4,7 @@ Kits
 
 A *kit* is a set of components that are not pre-assembled or mixed. This is useful for
 selling but also for creating cleaner and more effective *BOMs*. To use kits, you need 
-both the Manufacturing and Inventory apps to be installed. 
+both the Manufacturing and Inventory apps to be installed.  
 
 Manage Stock of Component Products
 ==================================
